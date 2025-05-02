@@ -1,0 +1,1 @@
+# Placeholder content for src/test_project/__init__.py
